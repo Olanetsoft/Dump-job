@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="04d9eed2-e06f-40d0-94ac-c5f71b443619" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="CSIPortalDumpJob.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CSIPortalDumpJob_CSIPortalDumpJob Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

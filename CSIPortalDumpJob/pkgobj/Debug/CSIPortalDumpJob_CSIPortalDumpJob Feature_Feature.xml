@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ActivateOnDefault="FALSE" AlwaysForceInstall="TRUE" Id="f9f67657-441e-47a4-9fe1-970fe17e587e" ReceiverAssembly="CSIPortalDumpJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=86ab401e9389e3d0" ReceiverClass="CSIPortalDumpJob.Features.CSIPortalDumpJob_Feature.CSIPortalDumpJob_FeatureEventReceiver" Scope="WebApplication" Title="CSIPortalDumpJob Feature"></Feature>

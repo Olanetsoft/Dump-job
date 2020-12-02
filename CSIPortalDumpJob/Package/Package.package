@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="04d9eed2-e06f-40d0-94ac-c5f71b443619" solutionId="04d9eed2-e06f-40d0-94ac-c5f71b443619" resetWebServer="false" sharePointProductVersion="16.0" name="CSIPortalDumpJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="eb327952-0ac4-475b-adc6-5e91ce331e66" />
+  </features>
+</package>
